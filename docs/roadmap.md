@@ -4,7 +4,7 @@ This roadmap provides a high-level overview of the learning journey and current 
 
 | Technology | Status | Progress |
 |------------|--------|----------|
-| Git | 🟨 In Progress | 9/20 (45%) |
+| Git | 🟨 In Progress | 13/20 (60%) |
 | GitHub | ⬜ Pending | 0/10 (0%) |
 | Terminal | ⬜ Pending | 0/10 (0%) |
 | JavaScript | ⬜ Pending | 0/25 (0%) |
