@@ -4,7 +4,7 @@ This roadmap tracks the Git learning path.
 
 ## Progress
 
-12/20 (60%)
+14/20 (70%)
 
 ## Sessions
 
@@ -23,7 +23,7 @@ This roadmap tracks the Git learning path.
 | 11 | Ignore unnecessary files | Ignore generated files using `.gitignore` | Created ignore rules and understood when files should or should not be versioned | 🟩 Completed |
 | 12 | Remove and rename files | Rename and remove versioned files | Used `git mv` and understood the difference between versioned and untracked files | 🟩 Completed |
 | 13 | Visualize history | Read the project history more clearly | Learned to inspect and navigate the repository history using `git log` and `git log --oneline`. | 🟩 Completed |
-| 14 | Create a branch | Start a new line of work | ⬜ Pending |
+| 14 | Create a branch | Start a new line of work | Created branches, committed changes independently, and visualized branch divergence using `git log --graph`. | 🟩 Completed |
 | 15 | Switch branches | Move between branches | ⬜ Pending |
 | 16 | Merge changes | Merge branches safely | ⬜ Pending |
 | 17 | Resolve conflicts | Resolve merge conflicts | ⬜ Pending |
